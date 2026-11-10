@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Cedric Mathias — Research. Design. Build.</title><desc id="desc">Product design, digital business and B2B SaaS marketing. Turning customer problems into clearer digital experiences.</desc>
+<rect width="1200" height="400" rx="20" fill="#070b12"/>
+<path d="M824 0H1200V400H980L824 244Z" fill="#0c1b33"/>
+<path d="M998 0L824 174V400" fill="none" stroke="#1b3555"/>
+<rect x="48" y="48" width="44" height="4" rx="2" fill="#4b9fff"/>
+<text x="48" y="100" fill="#95adc9" font-family="Arial,sans-serif" font-size="20">Product design · Digital business · B2B SaaS</text>
+<text x="44" y="180" fill="#f4f7fc" font-family="Arial,sans-serif" font-size="72" font-weight="600" letter-spacing="-3">Cedric Mathias</text>
+<text x="48" y="234" fill="#6eafff" font-family="Arial,sans-serif" font-size="32">Research. Design. Build.</text>
+<text x="48" y="294" fill="#becbdb" font-family="Arial,sans-serif" font-size="21">Turning customer problems into</text>
+<text x="48" y="324" fill="#becbdb" font-family="Arial,sans-serif" font-size="21">clearer digital experiences</text>
+<g transform="translate(852 96)">
+<rect x="0" y="0" width="256" height="200" rx="14" fill="#101c2d" stroke="#29405b"/>
+<circle cx="20" cy="20" r="4" fill="#4b9fff"/><path d="M36 20H96" stroke="#55708e" stroke-width="3" stroke-linecap="round"/>
+<path d="M20 40H236" stroke="#26394f"/>
+<rect x="20" y="60" width="66" height="120" rx="7" fill="#0b111b" stroke="#2a405c"/>
+<path d="M32 78H72M32 94H62M32 110H68" stroke="#537190" stroke-width="3" stroke-linecap="round"/>
+<rect x="104" y="60" width="132" height="66" rx="7" fill="#133763"/>
+<path d="M120 110L144 94L164 100L192 78L218 84" fill="none" stroke="#70b5ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M106 146H220M106 162H192M106 178H208" stroke="#496480" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="852" y="334" fill="#95adc9" font-family="Arial,sans-serif" font-size="18">Insight → interface → impact</text>
+</svg>
