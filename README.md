@@ -38,9 +38,12 @@ Three different problems. One thread: make the next action clearer.
 
 <table>
 <tr>
+<td width="33%" align="center" valign="middle" height="240"><a href="https://cedricmathias1.github.io/musgrave.html"><img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/musgrave-home.png" height="220" alt="Frank and Honest reusable-cup loyalty prototype" /></a></td>
+<td width="33%" align="center" valign="middle" height="240"><a href="https://cedricmathias1.github.io/drip.html"><img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/drip-profile.png" height="220" alt="Drip circular-fashion sustainability profile prototype" /></a></td>
+<td width="33%" align="center" valign="middle" height="240"><a href="https://cedricmathias1.github.io/usch.html"><img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/USCH_Dashboard.png" height="220" alt="Unified Student Communication Hub dashboard prototype" /></a></td>
+</tr>
+<tr>
 <td width="33%" valign="top">
-<a href="https://cedricmathias1.github.io/musgrave.html"><img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/musgrave-home.png" height="220" alt="Frank and Honest reusable-cup loyalty prototype" /></a>
-
 **01 / Musgrave · Frank & Honest**
 
 ### Making reuse a daily habit
@@ -56,8 +59,6 @@ Research framing, persona development, Figma prototyping and contributions to th
 
 </td>
 <td width="33%" valign="top">
-<a href="https://cedricmathias1.github.io/drip.html"><img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/drip-profile.png" height="220" alt="Drip circular-fashion sustainability profile prototype" /></a>
-
 **02 / Drip · Circular fashion**
 
 ### Giving clothes a second chapter
@@ -73,8 +74,6 @@ Research and persona lead, product-passport concept and co-leading the Figma pro
 
 </td>
 <td width="33%" valign="top">
-<a href="https://cedricmathias1.github.io/usch.html"><img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/USCH_Dashboard.png" height="220" alt="Unified Student Communication Hub dashboard prototype" /></a>
-
 **03 / USCH · Student experience**
 
 ### Bringing student life into focus
