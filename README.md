@@ -13,10 +13,6 @@
   <a href="mailto:cedricmathias1@gmail.com">Get in touch</a>
 </p>
 
-<table>
-<tr>
-<td width="72%" valign="middle">
-
 ### Customer insight, made tangible
 
 I'm Cedric, an **MSc Design & Development of Digital Business graduate from University College Cork**, with experience in B2B SaaS product marketing.
@@ -24,13 +20,6 @@ I'm Cedric, an **MSc Design & Development of Digital Business graduate from Univ
 I connect research, interface design and commercial thinking: understanding the problem, prototyping the experience and building the front end.
 
 **Open to opportunities across Ireland** in product and UX design, business analysis, digital business and product marketing.
-
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Cedricmathias1/cedricmathias1.github.io/main/images/cedric-portrait.webp" width="200" alt="Cedric Mathias, UCC graduate" />
-</td>
-</tr>
-</table>
 
 ## Selected work
 
